@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheNetherrackAxe
+- 👋 Hi, I’m @switchgeer
 - 👀 I’m interested in making a game, but who isn't?
 - 🌱 I’m currently learning C++ and we'll see how that goes!
 
